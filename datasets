@@ -2,3 +2,10 @@ dataset used:
 citation :
 CIC-IDS2017
 dataset link:[dataset](https://drive.google.com/file/d/1UcGBh9Mbqi4uh2T9BMrok4danWxl8yxJ/view?usp=sharing)
+
+dataset used:
+citation :
+CIC-IDS2017
+dataset link: [dataset link][dataset-id]
+
+[dataset-id]: https://drive.google.com/file/d/1UcGBh9Mbqi4uh2T9BMrok4danWxl8yxJ/view?usp=sharing "Optional Title Hover Text"
